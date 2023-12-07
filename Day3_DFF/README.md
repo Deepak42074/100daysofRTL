@@ -1,5 +1,5 @@
 # Day3
-This code represents three types of DFF:
+This code represents design of three types of DFF:
 - DFF with no reset condition
 - DFF with synchronous reset
 - DFF with asynchronous reset
