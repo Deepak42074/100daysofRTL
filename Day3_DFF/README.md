@@ -1,4 +1,4 @@
-# Day1
+# Day3
 This code represents three types of DFF:
 - DFF with no reset condition
 - DFF with synchronous reset
