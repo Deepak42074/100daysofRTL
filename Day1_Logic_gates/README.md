@@ -1,5 +1,6 @@
 # Day1
-This code represents logic implementation of all types of logic gates using data flow modeling style
+This code represents  implementation of all types of logic gates using data flow modeling style.
+In data flow modeling we have used the logical operators for showing logic operation.
 
 Logic gates Implemented:
 - AND
