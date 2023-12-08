@@ -6,3 +6,4 @@ In this repository , I will try to write one RTL code daily for some digital log
 - Day2 :EDA palyground link for the code : https://www.edaplayground.com/x/uYE2
 - Day3 :EDA palyground link for the code : https://www.edaplayground.com/x/qEvZ
 - Day4 :EDA palyground link for the code : https://www.edaplayground.com/x/Npf8
+- Day5 :EDA palyground link for the code :
