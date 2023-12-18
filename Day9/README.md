@@ -1,4 +1,4 @@
-# Day6
+# Day9
 This code represents design of linear feedbac shift register:
 
   
