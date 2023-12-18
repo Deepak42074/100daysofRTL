@@ -10,4 +10,4 @@ In this repository , I will try to write one RTL code daily for some digital log
 - Day6 :EDA playground link for the code : https://www.edaplayground.com/x/TzAW
 - Day7 :EDA playground link for the code : https://www.edaplayground.com/x/V2Fw
 - Day8 :EDA playground link for the code : https://www.edaplayground.com/x/meaK
-- Day8 :EDA playground link for the code : https://www.edaplayground.com/x/8XYH
+- Day9 :EDA playground link for the code : https://www.edaplayground.com/x/8XYH
