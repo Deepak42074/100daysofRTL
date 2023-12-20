@@ -1,4 +1,4 @@
-# Day6
+# Day8
 This code represents design of 8-bit counter:
 
   
