@@ -1,4 +1,4 @@
-# Day13
+# Day14
 Design a sequence detector to detect the following sequence:  1010_0011 
 
 # EDA palyground link for the code
