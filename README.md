@@ -14,4 +14,5 @@ In this repository , I will try to write one RTL code daily for some digital log
 - Day10 :EDA playground link for the code : https://www.edaplayground.com/x/JCnL
 - Day11 :EDA playground link for the code : https://www.edaplayground.com/x/herc
 - Day12 :EDA playground link for the code : https://www.edaplayground.com/x/FeEr
-- Day13 :EDA playground link for the code :https://www.edaplayground.com/x/P2Du
+- Day13 :EDA playground link for the code : https://www.edaplayground.com/x/P2Du
+- Day14 :EDA playground link for the code : https://www.edaplayground.com/x/rDmm
